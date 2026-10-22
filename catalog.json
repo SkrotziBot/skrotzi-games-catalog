@@ -1,0 +1,38 @@
+{
+  "launcher": {
+    "latest_version": "0.1.0",
+    "download_url": ""
+  },
+  "categories": [
+    {
+      "id": "visual-novels",
+      "name": "Визуальные новеллы"
+    },
+    {
+      "id": "other-games",
+      "name": "Другие игры"
+    }
+  ],
+  "games": [
+    {
+      "id": "last-bell",
+      "title": "Последний звонок",
+      "category": "visual-novels",
+      "description": "Твоя первая оригинальная история с Юлей.",
+      "version": "0.1.0",
+      "download_url": "",
+      "sha256": "",
+      "executable": "LastBell.exe"
+    },
+    {
+      "id": "obstacle-path",
+      "title": "Дорога сквозь препятствия",
+      "category": "other-games",
+      "description": "Будущая игра Антона: идея в разработке.",
+      "version": "0.1.0",
+      "download_url": "",
+      "sha256": "",
+      "executable": "ObstaclePath.exe"
+    }
+  ]
+}
